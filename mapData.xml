@@ -1,0 +1,363 @@
+<?xml version="1.0"?>
+<rooms>
+    <room>
+		<id>0</id>
+        <name>First Year Village</name>
+		<desc>You stand in the center of the First Year village, a circle of three, very hotel-like dorms, with an unlit fireplace in the center.</desc>
+        <up>1</up>
+		<left>2</left>
+		<right>3</right>
+		<down>4</down>
+    </room>
+    <room>
+		<id>1</id>
+        <name>Pagliaro Selz Hall</name>
+		<desc>You enter the main lobby of P-Selz, also known as Party-Selz.</desc>
+		<up>5</up>
+		<left></left>
+		<right>8</right>
+		<down>0</down>
+    </room>
+	<room>
+		<id>2</id>
+        <name>Fireside Hall</name>
+		<desc>This hall is deserted.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>0</down>
+    </room>
+    <room>
+		<id>3</id>
+        <name>Trustees Hall</name>
+		<desc>This hall is deserted. Congrats, you made it!</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>0</down>
+    </room>
+    <room>
+		<id>4</id>
+        <name>Van Meter Highway</name>
+		<desc>You're on the bright, brick pathway running straight through campus. There are smaller paths branching off in many other directions.</desc>
+		<up>16</up>
+		<left></left>
+		<right>15</right>
+		<down>0</down>
+    </room>
+    <room>
+		<id>5</id>
+        <name>2nd Floor</name>
+		<desc>This floor seems fairly quiet.</desc>
+		<up>6</up>
+		<left>9</left>
+		<right>10</right>
+		<down>1</down>
+    </room>
+    <room>
+		<id>6</id>
+        <name>3rd Floor</name>
+		<desc>As you enter this floor, the sounds of screeming and running fill your head, but with no discernable source.</desc>
+		<up>7</up>
+		<left>11</left>
+		<right>12</right>
+		<down>5</down>
+    </room>
+    <room>
+		<id>7</id>
+        <name>4th Floor</name>
+		<desc>This floor seems fairly quiet.</desc>
+		<up></up>
+		<left>13</left>
+		<right>14</right>
+		<down>6</down>
+    </room>
+    <room>
+		<id>8</id>
+        <name>Projector Room</name>
+		<desc>There are some kids watching a gopher documentary on the projector.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>1</down>
+    </room>
+    <room>
+		<id>9</id>
+        <name>Room 211</name>
+		<desc>A standard dorm room.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>5</down>
+    </room>
+    <room>
+		<id>10</id>
+        <name>Room 208</name>
+		<desc>A standard dorm room.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>5</down>
+    </room>
+    <room>
+		<id>11</id>
+        <name>Room 326</name>
+		<desc>A standard dorm room.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>6</down>
+    </room>
+    <room>
+		<id>12</id>
+        <name>Room 308</name>
+		<desc>A standard room with many pride flags on the wall.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>6</down>
+    </room>
+    <room>
+		<id>13</id>
+        <name>Room 419</name>
+		<desc>A standard dorm room. You can hear a fan blowing out the window of the room next to you.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>7</down>
+    </room>
+    <room>
+		<id>14</id>
+        <name>Room 403</name>
+		<desc>A standard dorm room.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>7</down>
+    </room>
+    <room>
+		<id>15</id>
+        <name>Mary Fisher</name>
+		<desc>Inside you see the same food there was yesterday.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>4</down>
+    </room>
+    <room>
+		<id>16</id>
+        <name>Academic Quad</name>
+		<desc>The center point of academia on campus.</desc>
+		<up>18</up>
+		<left>19</left>
+		<right>17</right>
+		<down>4</down>
+    </room>
+    <room>
+		<id>17</id>
+        <name>Van Meter</name>
+		<desc>The humanities building.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>16</down>
+    </room>
+    <room>
+		<id>18</id>
+        <name>Julia Rogers</name>
+		<desc>The TEM (no S) building.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>16</down>
+    </room>
+    <room>
+		<id>19</id>
+        <name>Hoffberger</name>
+		<desc>The science building.</desc>
+		<up></up>
+		<left>20</left>
+		<right></right>
+		<down>16</down>
+    </room>
+    <room>
+		<id>20</id>
+        <name>Kraushaar Auditorium</name>
+		<desc>A large space with two halls for performances or events.</desc>
+		<up>21</up>
+		<left></left>
+		<right></right>
+		<down>19</down>
+    </room>
+    <room>
+		<id>21</id>
+        <name>Dorsey Center</name>
+		<desc>There's a map inscribed on the wall, with a pile of paper copies beneath.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>20</down>
+    </room>
+    <room>
+		<id>22</id>
+        <name>2nd Floor</name>
+		<desc>This floor seems faily standard.</desc>
+		<up>25</up>
+		<left></left>
+		<right>23</right>
+		<down>2</down>
+    </room>
+    <room>
+		<id>23</id>
+        <name>Hallway</name>
+		<desc>This hallway seems faily standard.</desc>
+		<up></up>
+		<left>24</left>
+		<right></right>
+		<down>22</down>
+    </room>
+    <room>
+		<id>24</id>
+        <name>Room 207</name>
+		<desc>This room seems faily standard.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>23</down>
+    </room>
+    <room>
+		<id>25</id>
+        <name>3rd Floor</name>
+		<desc>This floor seems faily standard.</desc>
+		<up>28</up>
+		<left>26</left>
+		<right></right>
+		<down>22</down>
+    </room>
+    <room>
+		<id>26</id>
+        <name>Hallway</name>
+		<desc>This hallway seems faily standard.</desc>
+		<up></up>
+		<left></left>
+		<right>27</right>
+		<down>25</down>
+    </room>
+    <room>
+		<id>27</id>
+        <name>Room 319</name>
+		<desc>This room seems faily standard.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>26</down>
+    </room>
+    <room>
+		<id>28</id>
+        <name>4th Floor</name>
+		<desc>This floor seems faily standard.</desc>
+		<up></up>
+		<left></left>
+		<right>29</right>
+		<down>25</down>
+    </room>
+    <room>
+		<id>29</id>
+        <name>Hallway</name>
+		<desc>This hallway seems faily standard.</desc>
+		<up>30</up>
+		<left></left>
+		<right></right>
+		<down>28</down>
+    </room>
+    <room>
+		<id>30</id>
+        <name>Room 411</name>
+		<desc>This room seems faily standard.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>29</down>
+    </room>
+    <room>
+		<id>31</id>
+        <name>2nd Floor</name>
+		<desc>This floor seems faily standard.</desc>
+		<up>34</up>
+		<left>32</left>
+		<right>33</right>
+		<down>3</down>
+    </room>
+    <room>
+		<id>32</id>
+        <name>Room 202</name>
+		<desc>This room seems faily standard.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>31</down>
+    </room>
+    <room>
+		<id>33</id>
+        <name>Room 217</name>
+		<desc>This room seems faily standard.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>31</down>
+    </room>
+    <room>
+		<id>34</id>
+        <name>3rd Floor</name>
+		<desc>This floor seems faily standard.</desc>
+		<up>37</up>
+		<left>35</left>
+		<right></right>
+		<down>31</down>
+    </room>
+    <room>
+		<id>35</id>
+        <name>Hallway</name>
+		<desc>This hallway seems faily standard.</desc>
+		<up>36</up>
+		<left></left>
+		<right></right>
+		<down>34</down>
+    </room>
+    <room>
+		<id>36</id>
+        <name>Room 306</name>
+		<desc>This room seems faily standard.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>35</down>
+    </room>
+    <room>
+		<id>37</id>
+        <name>4th Floor</name>
+		<desc>This floor seems faily standard.</desc>
+		<up></up>
+		<left></left>
+		<right>38</right>
+		<down>34</down>
+    </room>
+    <room>
+		<id>38</id>
+        <name>Room 411</name>
+		<desc>This room seems faily standard.</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down>37</down>
+    </room>
+    <room>
+		<id>39</id>
+        <name></name>
+		<desc>How did you get here?</desc>
+		<up></up>
+		<left></left>
+		<right></right>
+		<down></down>
+    </room>
+</rooms>
