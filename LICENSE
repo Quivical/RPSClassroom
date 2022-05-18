@@ -1,0 +1,33 @@
+RPSClassroom License
+
+Copyright (c) 2022 Quill Moss
+
+The "Software" is defined as the source code files and associated documentation 
+files within this GitHub repository.
+
+The "Code" is defined as any whole or part of a file within this Software whose 
+extension is not .jpg or .png.
+
+"Game Assets" are defined as the files whose extensions are either .jpg or .png.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this Software to deal with the Code, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Code, and to permit persons to whom the Code is
+furnished to do so, subject to the following conditions:
+
+(1) The MIT License (https://opensource.org/licenses/MIT) shall be the license 
+used for all future dealings with the Code.
+
+(2) Game Assets are not to be included in any other present, past, or future 
+uses, copies, modifications, merges, publications, or distributions of the 
+Software. They are for use solely in this original publication of RPSClassroom
+on https://github.com/Quoot/RPSClassroom.
+
+(3) THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
